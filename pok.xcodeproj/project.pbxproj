@@ -20,6 +20,7 @@
 		FF76BF5D1D6DFD590085C020 /* ouchy-mere-enfant.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FF76BF591D6DFD590085C020 /* ouchy-mere-enfant.gpx */; };
 		FF76BF601D6E00480085C020 /* ouchy-ancre.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FF76BF5E1D6E00480085C020 /* ouchy-ancre.gpx */; };
 		FF76BF611D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FF76BF5F1D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx */; };
+		FF76BF631D6E082E0085C020 /* pokestop-recharge.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FF76BF621D6E082E0085C020 /* pokestop-recharge.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		FF76BF591D6DFD590085C020 /* ouchy-mere-enfant.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-mere-enfant.gpx"; sourceTree = "<group>"; };
 		FF76BF5E1D6E00480085C020 /* ouchy-ancre.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-ancre.gpx"; sourceTree = "<group>"; };
 		FF76BF5F1D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-PS-loannis-kapodistrias.gpx"; sourceTree = "<group>"; };
+		FF76BF621D6E082E0085C020 /* pokestop-recharge.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "pokestop-recharge.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				FF76BF561D6DFD590085C020 /* ouchy-souvenir-academie.gpx */,
+				FF76BF621D6E082E0085C020 /* pokestop-recharge.gpx */,
 				FF76BF5E1D6E00480085C020 /* ouchy-ancre.gpx */,
 				FF76BF5F1D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx */,
 				FF76BF581D6DFD590085C020 /* ouchy-vol-dicare.gpx */,
@@ -253,6 +256,7 @@
 			files = (
 				FF209FF81D6CDA0600BA536E /* LaunchScreen.storyboard in Resources */,
 				FF76BF5C1D6DFD590085C020 /* ouchy-vol-dicare.gpx in Resources */,
+				FF76BF631D6E082E0085C020 /* pokestop-recharge.gpx in Resources */,
 				FF76BF601D6E00480085C020 /* ouchy-ancre.gpx in Resources */,
 				FF76BF5A1D6DFD590085C020 /* ouchy-souvenir-academie.gpx in Resources */,
 				FF76BF5D1D6DFD590085C020 /* ouchy-mere-enfant.gpx in Resources */,
