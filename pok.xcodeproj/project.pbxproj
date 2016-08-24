@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E57B46CB1D6E0DC50085226B /* ouchy-arene-demilune.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46CA1D6E0DC50085226B /* ouchy-arene-demilune.gpx */; };
+		E57B46CD1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46CC1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx */; };
+		E57B46CF1D6E0EEC0085226B /* ouchy-4monolithes.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */; };
+		E57B46D11D6E0F610085226B /* ouchy-horde-drapeaux.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */; };
 		FF209FEE1D6CDA0600BA536E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF209FED1D6CDA0600BA536E /* AppDelegate.swift */; };
 		FF209FF01D6CDA0600BA536E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF209FEF1D6CDA0600BA536E /* ViewController.swift */; };
 		FF209FF31D6CDA0600BA536E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF209FF11D6CDA0600BA536E /* Main.storyboard */; };
@@ -41,6 +45,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E57B46CA1D6E0DC50085226B /* ouchy-arene-demilune.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-arene-demilune.gpx"; sourceTree = "<group>"; };
+		E57B46CC1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-dans-l-eau.gpx"; sourceTree = "<group>"; };
+		E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-4monolithes.gpx"; sourceTree = "<group>"; };
+		E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-horde-drapeaux.gpx"; sourceTree = "<group>"; };
 		FF209FEA1D6CDA0600BA536E /* pok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pok.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF209FED1D6CDA0600BA536E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF209FEF1D6CDA0600BA536E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -94,7 +102,11 @@
 			children = (
 				FF76BF561D6DFD590085C020 /* ouchy-souvenir-academie.gpx */,
 				FF76BF621D6E082E0085C020 /* pokestop-recharge.gpx */,
+				E57B46CA1D6E0DC50085226B /* ouchy-arene-demilune.gpx */,
+				E57B46CC1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx */,
 				FF76BF5E1D6E00480085C020 /* ouchy-ancre.gpx */,
+				E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */,
+				E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */,
 				FF76BF5F1D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx */,
 				FF76BF581D6DFD590085C020 /* ouchy-vol-dicare.gpx */,
 				FF76BF591D6DFD590085C020 /* ouchy-mere-enfant.gpx */,
@@ -215,7 +227,7 @@
 				TargetAttributes = {
 					FF209FE91D6CDA0600BA536E = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = CFRCH48EE6;
+						DevelopmentTeam = 7NGA386664;
 					};
 					FF209FFD1D6CDA0600BA536E = {
 						CreatedOnToolsVersion = 7.3;
@@ -255,12 +267,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF209FF81D6CDA0600BA536E /* LaunchScreen.storyboard in Resources */,
+				E57B46CF1D6E0EEC0085226B /* ouchy-4monolithes.gpx in Resources */,
 				FF76BF5C1D6DFD590085C020 /* ouchy-vol-dicare.gpx in Resources */,
 				FF76BF631D6E082E0085C020 /* pokestop-recharge.gpx in Resources */,
 				FF76BF601D6E00480085C020 /* ouchy-ancre.gpx in Resources */,
 				FF76BF5A1D6DFD590085C020 /* ouchy-souvenir-academie.gpx in Resources */,
+				E57B46CD1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx in Resources */,
 				FF76BF5D1D6DFD590085C020 /* ouchy-mere-enfant.gpx in Resources */,
 				FF76BF611D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx in Resources */,
+				E57B46CB1D6E0DC50085226B /* ouchy-arene-demilune.gpx in Resources */,
+				E57B46D11D6E0F610085226B /* ouchy-horde-drapeaux.gpx in Resources */,
 				FF209FF51D6CDA0600BA536E /* Assets.xcassets in Resources */,
 				FF209FF31D6CDA0600BA536E /* Main.storyboard in Resources */,
 			);
@@ -432,10 +448,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = pok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = coteries.pok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -443,10 +462,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = pok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = coteries.pok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
