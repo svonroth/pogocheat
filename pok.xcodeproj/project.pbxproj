@@ -11,6 +11,7 @@
 		E57B46CD1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46CC1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx */; };
 		E57B46CF1D6E0EEC0085226B /* ouchy-4monolithes.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */; };
 		E57B46D11D6E0F610085226B /* ouchy-horde-drapeaux.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */; };
+		E57B46D31D6E10DB0085226B /* custom-temp.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E57B46D21D6E10DB0085226B /* custom-temp.gpx */; };
 		FF209FEE1D6CDA0600BA536E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF209FED1D6CDA0600BA536E /* AppDelegate.swift */; };
 		FF209FF01D6CDA0600BA536E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF209FEF1D6CDA0600BA536E /* ViewController.swift */; };
 		FF209FF31D6CDA0600BA536E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF209FF11D6CDA0600BA536E /* Main.storyboard */; };
@@ -49,6 +50,7 @@
 		E57B46CC1D6E0E4D0085226B /* ouchy-dans-l-eau.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-dans-l-eau.gpx"; sourceTree = "<group>"; };
 		E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-4monolithes.gpx"; sourceTree = "<group>"; };
 		E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ouchy-horde-drapeaux.gpx"; sourceTree = "<group>"; };
+		E57B46D21D6E10DB0085226B /* custom-temp.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "custom-temp.gpx"; sourceTree = "<group>"; };
 		FF209FEA1D6CDA0600BA536E /* pok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pok.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF209FED1D6CDA0600BA536E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF209FEF1D6CDA0600BA536E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				E57B46D01D6E0F610085226B /* ouchy-horde-drapeaux.gpx */,
 				E57B46CE1D6E0EEC0085226B /* ouchy-4monolithes.gpx */,
 				FF76BF5F1D6E00480085C020 /* ouchy-PS-loannis-kapodistrias.gpx */,
+				E57B46D21D6E10DB0085226B /* custom-temp.gpx */,
 				FF76BF581D6DFD590085C020 /* ouchy-vol-dicare.gpx */,
 				FF76BF591D6DFD590085C020 /* ouchy-mere-enfant.gpx */,
 				FF20A01B1D6CDA4800BA536E /* MapKit.framework */,
@@ -268,6 +271,7 @@
 			files = (
 				FF209FF81D6CDA0600BA536E /* LaunchScreen.storyboard in Resources */,
 				E57B46CF1D6E0EEC0085226B /* ouchy-4monolithes.gpx in Resources */,
+				E57B46D31D6E10DB0085226B /* custom-temp.gpx in Resources */,
 				FF76BF5C1D6DFD590085C020 /* ouchy-vol-dicare.gpx in Resources */,
 				FF76BF631D6E082E0085C020 /* pokestop-recharge.gpx in Resources */,
 				FF76BF601D6E00480085C020 /* ouchy-ancre.gpx in Resources */,
